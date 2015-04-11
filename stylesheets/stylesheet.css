@@ -10,7 +10,7 @@ body {
   color: #606c71; 
   background-image: url("/img/crystals.jpeg");
   background-repeat: no-repeat;
- background-size:cover
+  background-size:100%; background-size:cover
   padding-top: 10%;
   }
 
