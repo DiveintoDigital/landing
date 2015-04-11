@@ -9,8 +9,10 @@ body {
   line-height: 1.5;
   color: #606c71; 
   background-image: url("/img/crystals.jpeg");
-  background-size:100%;
   background-repeat: no-repeat;
+  background-size:100%;
+  background-position:center center;
+  background-attachment:fixed;
   padding-top: 10%;
   }
 
